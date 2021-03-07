@@ -19,7 +19,7 @@
     "test": "jest",
     "release": "yarn build && np"
   },
-  "husky": {
+  "husky",: {
     "hooks": {
       "pre-commit": "yarn format",
       "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"

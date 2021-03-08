@@ -2084,7 +2084,7 @@ var links = [
             },
             {
                 label: "Docs",
-                href: "https://darthvaderfinance.medium.com",
+                href: "https://darkvaderfinance.gitbook.io/darthvaderfinance/",
             },
             {
                 label: "Blog",
@@ -2100,7 +2100,11 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/DarthVaderFinance",
+                href: "https://t.me/DarthvaderDefii",
+            },
+            {
+                label: "Announcements",
+                href: "https://t.me/DarthvaderDefii",
             },
             // {
             //   label: "Bahasa Indonesia",
